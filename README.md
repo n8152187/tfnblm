@@ -12,8 +12,8 @@
 <h4>By: Almani Bryant</h4>
   <p>You cannot talk about any movement in African American History without mentioning the music. Many artist have preformed songs that have become anthems for the movement of their time.</p>
  <div class="record">
-  <a target="_blank" href="/mbm_images/recordsign1.png">
-    <img src="/mbm_images/recordsign1.png" >
+  <a target="_blank" href="recordsign1.png">
+    <img src="recordsign1.png" >
   </a>
  </div>
   
@@ -22,29 +22,29 @@
   
    <p>Other songs include: (The following are cover songs)</p>
   <div class="gallery">
-  <a target="_blank" href="/mbm_images/lp.jpg">
-    <img src="/mbm_images/lp.jpg" alt="Leontyne Price" width="300" height="400">
+  <a target="_blank" href="lp.jpg">
+    <img src="lp.jpg" alt="Leontyne Price" width="300" height="400">
   </a>
   <div class="desc">"Swing Low, Sweet Chariot By: Leontyne Price"                          </div>
 </div>
   &nbsp;
   <div class="gallery">
-  <a target="_blank" href="/mbm_images/la1jpg.">
-    <img src="/mbm_images/la1.jpg" alt="Louis Armstrong" width="300" height="400">
+  <a target="_blank" href="la1jpg.">
+    <img src="la1.jpg" alt="Louis Armstrong" width="300" height="400">
   </a>
   <div class="desc">"Down By the Riverside" By: Louis Armstrong </div>
 </div>
   &nbsp;
   <div class="gallery">
-  <a target="_blank" href="/mbm_images/tad.jpg">
-    <img src="/mbm_images/tad.jpg" alt="Thomas A. Dorsey" width="300" height="400">
+  <a target="_blank" href="tad.jpg">
+    <img src="tad.jpg" alt="Thomas A. Dorsey" width="300" height="400">
   </a>
   <div class="desc">Take My Hand, Precious Lord" By: Thomas A. Dorsey</div>
 </div>
 &nbsp;
   <div class="gallery">
-  <a target="_blank" href="/mbm_images/mjnkc.PNG">
-    <img src="/mbm_images/mjnkc.PNG" alt="Mahalia Jackson and Nat King Cole" width="300" height="400">
+  <a target="_blank" href="mjnkc.PNG">
+    <img src="mjnkc.PNG" alt="Mahalia Jackson and Nat King Cole" width="300" height="400">
   </a>
   <div class="desc"> "Steal Away to Jesus" By: Mahalia Jackson and Nat King Cole</div>
 </div>
@@ -56,29 +56,29 @@
   <p>Other songs included: </p>
   
   <div class="gallery">
-  <a target="_blank" href="/mbm_images/nina_simone.jpg">
-    <img src="/mbm_images/nina_simone.jpg" alt="Nina Simone" width="300" height="400">
+  <a target="_blank" href="nina_simone.jpg">
+    <img src="nina_simone.jpg" alt="Nina Simone" width="300" height="400">
   </a>
   <div class="desc">I Wish I Knew How It Would Feel to Be Free" By: Nina Simone</div>
 </div>
  &nbsp;
   <div class="gallery">
-  <a target="_blank" href="/mbm_images/bob_dyalan.jpg">
-    <img src="/mbm_images/bob_dylan.jpg" alt="Bob Dylan " width="300" height="400">
+  <a target="_blank" href="bob_dyalan.jpg">
+    <img src="bob_dylan.jpg" alt="Bob Dylan " width="300" height="400">
   </a>
   <div class="desc">"Blowing in the Wind" By: Bob Dylan</div>
 </div>
 &nbsp;
    <div class="gallery">
-  <a target="_blank" href="/mbm_images/billie_holiday.jpg">
-    <img src="/mbm_images/billie_holiday.jpg" alt="Billie Holiday" width="300" height="400">
+  <a target="_blank" href="billie_holiday.jpg">
+    <img src="billie_holiday.jpg" alt="Billie Holiday" width="300" height="400">
   </a>
   <div class="desc">"Strange Fruit" By: Billie Holiday</div>
 </div>
  &nbsp;
  <div class="gallery">
-  <a target="_blank" href="/mbm_images/james_brown.jpg">
-    <img src="/mbm_images/james_brown.jpg" alt="James Brown" width="300" height="400">
+  <a target="_blank" href="james_brown.jpg">
+    <img src="james_brown.jpg" alt="James Brown" width="300" height="400">
   </a>
   <div class="desc">"Say it Loud" By: James Brown</div>
 </div>
@@ -90,29 +90,29 @@
 <p>Other songs include: </p>
   
    <div class="gallery">
-  <a target="_blank" href="/mbm_images/jcole.jfif">
-    <img src="/mbm_images/jcole.jfif" alt="J.Cole" width="300" height="400">
+  <a target="_blank" href="jcole.jfif">
+    <img src="jcole.jfif" alt="J.Cole" width="300" height="400">
   </a>
   <div class="desc">"Be Free" By: J.Cole</div>
 </div>
 &nbsp;
    <div class="gallery">
-  <a target="_blank" href="/mbm_images/Miguel1.jpg">
-    <img src="/mbm_images/Miguel1.jpg" alt="Miguel" width="300" height="400">
+  <a target="_blank" href="Miguel1.jpg">
+    <img src="Miguel1.jpg" alt="Miguel" width="300" height="400">
   </a>
   <div class="desc">"How Many (Black People)" By: Miguel</div>
 </div>
 &nbsp;
   <div class="gallery">
-  <a target="_blank" href="/mbm_images/Kendrick_Lamar_.jpg">
-    <img src="/mbm_images/Kendrick_Lamar_.jpg" alt="Kendrick Lamar" width="300" height="400">
+  <a target="_blank" href="Kendrick_Lamar_.jpg">
+    <img src="Kendrick_Lamar_.jpg" alt="Kendrick Lamar" width="300" height="400">
   </a>
   <div class="desc">"Alright" By: Kendrick Lamar</div>
 </div>
   &nbsp;
   <div class="gallery">
-  <a target="_blank" href="/mbm_images/Mack.jpg">
-    <img src="/mbm_images/Mack.jpg" alt="Macklemore and Ryan Lewis ft. Jamila Woods" width="300" height="400">
+  <a target="_blank" href="Mack.jpg">
+    <img src="Mack.jpg" alt="Macklemore and Ryan Lewis ft. Jamila Woods" width="300" height="400">
   </a>
   <div class="desc">"White Privilege" By: Macklemore and Ryan Lewis ft. Jamila Woods</div>
 </div>
