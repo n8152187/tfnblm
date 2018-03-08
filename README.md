@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>#BlackLivesMatter</title>
+
 <link rel="stylesheet" href="mbm.css">
 </head>
  
