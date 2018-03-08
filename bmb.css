@@ -1,0 +1,55 @@
+h1{
+color: white;
+background-color: black;
+padding:30px;
+margin-bottom:0px;
+}
+
+h3{
+ margin-left:600px;
+  margin-right:500px;
+
+}
+
+p{
+word-wrap:normal;
+ text-align: justify;
+  margin-left:600px;
+  margin-right:500px;
+ width:600px;
+}
+
+div.gallery {
+    
+    border: 1px solid #777;
+    float:left;
+    width: 180px;
+    margin-left: 200px;
+    align-content:center;
+}
+
+div.gallery:hover {
+    border: 2px solid #911;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+
+
+}
+
+div.desc {
+    padding: 20px;
+    text-align: center;
+}
+
+div.record{
+margin-left:600px;
+  margin-right:500px; 
+ 
+}
+div.CRM{
+padding-top: 350px;
+
+}
