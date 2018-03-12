@@ -1,8 +1,8 @@
 <style>
 
 h1 {
-color: white;
-background-color: black;
+color:#ffffff;
+background-color:#000000;
 padding:30px;
 margin-bottom:0px;
 }
@@ -21,8 +21,7 @@ word-wrap:normal;
 }
 
 div.gallery {
-   
-    border: 1px solid #777;
+    border: 1px :solid #777;
     float:left;
     width: 180px;
     margin-left: 200px;
@@ -50,7 +49,6 @@ margin-left:600px;
 }
 div.CRM{
 padding-top: 350px;
-
 }
 
 </style>
